@@ -498,7 +498,7 @@ export default function App() {
             ))}
           </div>
           <div className="mt-5 text-[10px] leading-relaxed" style={{ color: "#6d5f85" }}>
-            Bonus flows wired in: correction (§12) and erasure (§12) with plain-language retention notice.<br />
+            
             Ashutosh Palai · Vedantu PM Intern Assignment · Deliverable 2
           </div>
         </div>
